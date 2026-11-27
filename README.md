@@ -2,6 +2,13 @@
 
 A browser quiz for studying current events, with a Python parser that converts text questions into JSON and JavaScript data. Includes timers, shuffling, answer feedback, source links, and theme settings.
 
+## Get the source
+
+```sh
+git clone --filter=blob:none https://github.com/TanishC4444/CE-Iquizlet.git
+cd CE-Iquizlet
+```
+
 ## Preview
 
 ```sh
